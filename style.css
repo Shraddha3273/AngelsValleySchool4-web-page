@@ -1,0 +1,41 @@
+body{background-color: white;}
+p1   {color: #36ABE3;font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px;
+    border-style: dashed;
+    border-color:darkblue;margin: 10px 5px 10px 5px;padding: 5px 10px 5px 10px;
+    }
+
+
+
+
+h1   {text-align: center;} 
+p2   {font-size: 20px}
+
+
+.menu { 
+display: flex;
+justify-content: center;
+
+}
+
+
+a:link {
+    color:#104B97;
+    text-decoration: none;
+}
+
+/*visited link*/
+a:visited {
+    color: #104B97;
+    text-decoration: none;
+}
+
+
+
+
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
